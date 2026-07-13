@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Lançamento inicial do Instituto Yarin com Painel Geral e tamanho de janela calibrado.",
-  "pub_date": "2026-06-15T22:45:00Z",
+  "version": "1.2.9",
+  "notes": "Lançamento inicial com Java embutido e atualizações automáticas.",
+  "pub_date": "2026-07-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "AQUI_VAI_A_ASSINATURA_DO_MSI",
-      "url": "https://github.com/genesis-silva/yarin_updater/releases/download/v0.1.0/yarin-desktop_0.1.0_x64_en-US.msi"
+      "signature": "",
+      "url": "https://github.com/genesis-silva/yarinSistema_java/releases/download/v1.2.9/yarin-desktop_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
