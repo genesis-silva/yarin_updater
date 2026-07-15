@@ -1,11 +1,11 @@
 {
-  "version": "1.3.8",
+  "version": "1.3.9",
   "notes": "Correção do ecossistema de plugins (Shell v2.11.2) e otimização multiplataforma.",
   "pub_date": "2026-07-12T23:50:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/genesis-silva/yarinSistema_java/releases/download/v1.3.8/yarin-desktop_0.1.0_x64_en-US.msi.zip"
+      "url": "https://github.com/genesis-silva/yarinSistema_java/releases/download/v1.3.9/yarin-desktop_0.1.0_x64_en-US.msi.zip"
     }
   }
 }
